@@ -1,0 +1,6 @@
+theme = "Hugo-Octopress"
+baseURL = "https://kkeenan02.github.io/"
+languageCode = "en-us"
+title = "Data-Driver"
+description = "Lessons in Data Science as we go"
+publishDir = "../kkeenan02.github.io"
