@@ -1,3 +1,9 @@
 ---
 site: blogdown:::blogdown_site
 ---
+
+```{r}
+library(blogdown)
+build_site()
+```
+
