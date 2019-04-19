@@ -1,7 +1,7 @@
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 baseURL = "https://kkeenan02.github.io/"
 languageCode = "en-us"
-title = "Data-Driver"
+title = "Data Pragmatist"
 description = "Lessons in Data Science as we go"
 publishDir = "../kkeenan02.github.io"
 enableRobotsTXT = true
